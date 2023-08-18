@@ -106,3 +106,11 @@ Use the `cropping_thumbnail` template tag to display cropped images in your temp
 And that's it! You've successfully integrated image cropping functionality into your Django image upload process using `django-image-cropping`. Customize the code to fit your project's structure and design preferences.
 
 ---
+
+Happy coding :computer: :clinking_glasses:
+
+Best regards,
+
+Yara Elmalah 😊
+
+In the world of code, we unleash our Nen, channeling our aura into transformative creations :sauropod: :fire:	
